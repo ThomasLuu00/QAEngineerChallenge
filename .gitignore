@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+/CSharpAssignment/ConsoleApplication1/bin/
+/CSharpAssignment/ConsoleApplication1/obj/
